@@ -1,0 +1,20 @@
+{
+    "name": "lineup",
+    "version": "1.0.0",
+    "description": "To prepare his students for an upcoming game, the sports coach decides to try some new training drills. To begin with, he lines them up and starts with the following warm-up exercise: when the coach says `'L'`, he instructs the students to turn to the left. Alternatively, when he says `'R'`, they should turn to the right. Finally, when the coach says `'A'`, the students should turn around.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/lineup.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/lineup/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/lineup#readme"
+}
